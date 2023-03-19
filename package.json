@@ -1,0 +1,15 @@
+{
+  "name": "trecias_404",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=9000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rolandas <rolandas.tverijonas021@gmail.com> (https://github.com/Rolandas021)",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
